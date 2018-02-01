@@ -3,3 +3,6 @@
 
 /updates/
 /application/files/cache/
+
+/application/config/concrete.php
+/application/config/database.php
